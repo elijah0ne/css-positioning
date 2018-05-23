@@ -8,4 +8,48 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   margin: 0;
+
 }
+
+#container {
+	background: linear-gradient(#1c5380, #06365f);
+	height: 400px;
+	width: 100%;
+	padding: 15% 0 0 25%;
+}
+
+#column {
+	display: inline-block;
+}
+
+h1 {
+	color: #1c5380;
+}
+
+.capture {
+	background: #fff;
+	width: 450px;
+	border: 1px solid grey;
+	padding: 25px;
+	border-radius: 5px;
+}
+
+
+
+ul {
+	list-style-type: none;
+}
+
+a {
+	text-decoration: none;
+	color: #1c5380;
+}
+
+
+
+
+
+
+
+
+
